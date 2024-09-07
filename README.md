@@ -28,14 +28,14 @@ This project provides a simple command-line interface (CLI) for scheduling appoi
 
 ## How to Run
 
-1. Ensure you have PostgreSQL installed and a user `postgres` set up.
-2. Import the database by running the following command:
+1. **Ensure you have PostgreSQL installed and a user `postgres` set up.**
+2. **Import the database by running the following command:**
    ```bash
    psql --username=postgres --file=salon.sql
-3. Make sure the salon.sh script is executable:
+3. **Make sure the salon.sh script is executable:**
    ```bash
    chmod +x salon.sh
-4. Run the script:
+4. **Run the script:**
    ```bash
    ./salon.sh
    
