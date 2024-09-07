@@ -39,7 +39,7 @@ This project provides a simple command-line interface (CLI) for scheduling appoi
    ```bash
    ./salon.sh
    
-##Example Interaction
+## Example Interaction
 
 ```CSS
 ~~~~~ MY SALON ~~~~~
